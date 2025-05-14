@@ -1,5 +1,7 @@
 # 🎹 Akkordgen – Generate MIDI files from chord progressions
 
+[![npm version](https://badge.fury.io/js/akkordgen.svg)](https://www.npmjs.com/package/akkordgen)
+
 **Akkordgen** is a CLI tool for converting readable chord progressions into playable MIDI files. It supports rich chord types, Unicode and ASCII accidentals, and variable beat durations.
 
 It pairs perfectly with **[ChordGPT](https://chatgpt.com/g/g-6824eaafa268819192101595c7f84ae3-chordgpt)**, a ChatGPT-powered assistant that helps you compose progressions in the correct format.
@@ -8,10 +10,10 @@ It pairs perfectly with **[ChordGPT](https://chatgpt.com/g/g-6824eaafa2688191921
 
 ## 🚀 Installation
 
-To install globally from a local copy:
+Requries that you have installed node/npm.
 
 ```
-npm install -g .
+npm install -g akkordgen
 ```
 
 You can now run `akkordgen` from anywhere in your terminal.

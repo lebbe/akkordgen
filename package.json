@@ -8,13 +8,23 @@
   "bin": {
     "akkordgen": "./src/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Lars-Erik Bruce",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "midi-writer-js": "^3.1.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lebbe/akkordgen.git"
+  },
+  "keywords": [
+    "midi",
+    "chords",
+    "cli",
+    "music",
+    "generator"
+  ],
   "prettier": {
     "singleQuote": true,
     "semi": false,
